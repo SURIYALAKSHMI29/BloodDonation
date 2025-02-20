@@ -1,0 +1,20 @@
+npx create-expo-app blood-donation-app
+
+cd blood-donation-app
+
+npm install axios react-native-paper
+
+(then try) 
+npx react-native start
+
+(if the above command not works, then try the below)
+
+npx expo start
+
+
+
+
+http://localhost:8081/ (Try running the app using the link provided)
+
+(try to access the backend alone,
+     like "http://localhost/reactnative_demo/backend/get_donors.php")
